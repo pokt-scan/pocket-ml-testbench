@@ -20,5 +20,3 @@ logs
 __pycache__
 # Deleted files
 .fuse_hidden*
-# SQL
-infrastructure/postgresql/data/*
